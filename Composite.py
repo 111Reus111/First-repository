@@ -1,6 +1,6 @@
 class ComponentCompany():
     def getTotalSalary(self):
-        pass
+        throw NotImplementedError
 class Department(ComponentCompany):
     def __init__(self,name):
         self.name = name
