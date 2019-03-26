@@ -42,6 +42,7 @@ worker1 = Worker("Makr", 3500)
 worker2 = Worker("Borya", 1500)
 worker3 = Worker("Katay", 4000)
 worker4 = Worker("Vova", 6000)
+worker5=Worker("Roma",5500)
 
 main_department = Department("Main Department")
 minor_department = Department("Minor Department")
